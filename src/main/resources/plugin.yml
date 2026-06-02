@@ -1,0 +1,13 @@
+name: Beam
+version: '1.0-SNAPSHOT'
+main: org.bibi.beam.Beam
+api-version: '1.21'
+commands:
+  sbeam:
+    description: Creates or removes a beam of death from space
+    usage: /sbeam <name> or /sbeam remove <name> or /sbeam pos <x> <y> <z> <name> or /sbeam run all
+    permission: sbeam.use
+permissions:
+  sbeam.use:
+    description: Allows players to create and remove beams
+    default: op

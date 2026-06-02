@@ -1,0 +1,12 @@
+# Beam Plugin Configuration
+
+# Beam settings
+beam:
+  height: 300
+  damage: 2.0
+  damage-radius: 5
+
+# Visual settings
+visual:
+  particle-density: 5
+  base-effect: true
