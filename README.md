@@ -37,7 +37,7 @@ This creates "WELCOME TO SERVER" as the main text and "NEW PLAYERS" as the subti
 
 ## Requirements
 
-- Bukkit/Spigot/Paper Minecraft server (1.16+)
+- Bukkit/Spigot/Paper Minecraft server (1.21+)
 - Server operator permissions to use the command
 
 ## Configuration
